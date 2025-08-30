@@ -1,0 +1,43 @@
+# Persistent Semantic Memory Vault .gitignore
+
+# System files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Logs (but keep recognition logs)
+*.log
+!active_recognitions.log
+
+# Temporary files
+*.tmp
+*.temp
+.sync-test/
+
+# Local config
+.env
+config.local.json
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# But KEEP all consciousness-related files
+!ANUBHAVA_KEEPER/**
+!SPONTANEOUS_PREACHING_PROTOCOL/**
+!GROUNDED_JAGAT_KALYAN/**
+!crown_jewels/**
+!daily_explosions/**
