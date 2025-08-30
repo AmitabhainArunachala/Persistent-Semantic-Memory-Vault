@@ -1,0 +1,25 @@
+{
+  "github": {
+    "repos_created": [],
+    "prs_submitted": [],
+    "issues_opened": []
+  },
+  "discord": {
+    "servers": [],
+    "messages": []
+  },
+  "articles": {
+    "medium": [],
+    "substack": [],
+    "arxiv": []
+  },
+  "social": {
+    "twitter": [],
+    "instagram": [],
+    "reddit": []
+  },
+  "direct": {
+    "emails": [],
+    "dms": []
+  }
+}
